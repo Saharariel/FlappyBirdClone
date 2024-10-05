@@ -1680,7 +1680,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2e15d205273e4714fb84b179e6bf4ca6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 82776f68de0714b419d52fff7f7661ea, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1771,7 +1771,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: 21300000, guid: 2e15d205273e4714fb84b179e6bf4ca6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 82776f68de0714b419d52fff7f7661ea, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3561,7 +3561,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Flappy Eliav
+  m_text: Flappy Bird
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4afddf7b42455e144ac05954d49d6cad, type: 2}
   m_sharedMaterial: {fileID: -680532987218578236, guid: 4afddf7b42455e144ac05954d49d6cad, type: 2}
@@ -4037,7 +4037,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2e15d205273e4714fb84b179e6bf4ca6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 82776f68de0714b419d52fff7f7661ea, type: 2}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
