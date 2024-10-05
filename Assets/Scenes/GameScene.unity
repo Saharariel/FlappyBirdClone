@@ -12320,7 +12320,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Flappy Eliav
+  m_text: Flappy Bird
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 4afddf7b42455e144ac05954d49d6cad, type: 2}
   m_sharedMaterial: {fileID: -680532987218578236, guid: 4afddf7b42455e144ac05954d49d6cad, type: 2}
