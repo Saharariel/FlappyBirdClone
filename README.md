@@ -21,10 +21,7 @@
   <li><strong>Custom Music</strong>: Collect ingame coins and choose the music of the game!</li>
 <br>
 <p align="center">
-  <img src="./screenshots/Skins_Menu.gif" alt="Game Screenshot" width="200"> <em> &nbsp;&nbsp;&nbsp; </em>
-  <img src="./screenshots/Music_Menu.gif" alt="Game Screenshot" width="200">
   <br>
-  <em>The Skins Selection Menu &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Music Selection Menu</em>
 </p>
 </ul>
 
